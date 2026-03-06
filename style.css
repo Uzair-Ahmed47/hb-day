@@ -27,6 +27,13 @@
     background-size: 100% 100%;
     background-position: center;
 }
+.iftari-text{
+    margin-top: 40px;      /* space above text */
+    margin-bottom: 40px;   /* space before cake image */
+    color: #ff4d6d;        /* birthday style pink */
+    font-weight: bold;
+    letter-spacing: 1px;
+}
 
 .golden-btn:focus,
 .golden-btn:hover {
@@ -125,5 +132,5 @@ img {
     transform: translateX(-50%);
     left: 50%;
     position: absolute;
-    padding-top: 250px;
+    padding-top: 300px;
 }
